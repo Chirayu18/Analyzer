@@ -1,5 +1,6 @@
 # Analyzer
 To compile: make
+
 To run: ./analyzeHGCMuons runlist.txt Plots.root data 2000
 
 # Parameters
