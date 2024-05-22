@@ -11,7 +11,7 @@ file1.root
 file2.root
 '''
 
-Pots.root: Name of output file
+Plots.root: Name of output file
 
 data: Placeholder
 
